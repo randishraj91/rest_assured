@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-21T16:33:55 IST" name="Default suite" finished-at="2023-01-21T16:33:58 IST" duration-ms="3277">
+    <groups>
+    </groups>
+    <test started-at="2023-01-21T16:33:55 IST" name="Default test" finished-at="2023-01-21T16:33:58 IST" duration-ms="3277">
+      <class name="com.lao.BBD.rest_assured.GetAllEmployees">
+        <test-method signature="getAllEmployeesBBD()[pri:0, instance:com.lao.BBD.rest_assured.GetAllEmployees@1613674b]" started-at="2023-01-21T16:33:55 IST" name="getAllEmployeesBBD" finished-at="2023-01-21T16:33:58 IST" duration-ms="3153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllEmployeesBBD -->
+      </class> <!-- com.lao.BBD.rest_assured.GetAllEmployees -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

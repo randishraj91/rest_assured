@@ -1,0 +1,36 @@
+{
+  "category" : "Super Hero Moves & TV Series",
+  "acceptedFranchise" : [ "DC", "Marvel" ],
+  "genres" : [ "Action", "Adventure", "Heroic", "Dark", "Funny" ],
+  "movies" : [ {
+    "year" : 2008,
+    "cast" : [ "Chrstain Bale", "Heath Ledger" ],
+    "title" : "Batman : The Dark Knight"
+  }, {
+    "year" : 2021,
+    "cast" : [ "Henry Cavill", "Gal Gadot" ],
+    "title" : "Jutice League : Snyder Cut"
+  }, {
+    "year" : 2015,
+    "cast" : [ "Robert Downey", "Chris Evans" ],
+    "title" : "Averagers : age of Ultron"
+  }, {
+    "year" : 2012,
+    "cast" : [ "Chris Evans", "Chris Hemsworth" ],
+    "title" : "The Averagers"
+  } ],
+  "otherDetails" : {
+    "country" : "only USA",
+    "language" : "alien"
+  },
+  "tvSeries" : [ {
+    "year" : 2014,
+    "title" : "Flash"
+  }, {
+    "year" : 2013,
+    "title" : "Gotham"
+  }, {
+    "year" : 2015,
+    "title" : "Super Girl"
+  } ]
+}
